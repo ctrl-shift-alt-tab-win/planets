@@ -1,2 +1,3 @@
 Hello.
 This is a text file.
+Person A added a new line.
